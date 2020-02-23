@@ -1406,6 +1406,10 @@ form input[type="reset"]:hover {
 .copy p a:hover {
   text-decoration: underline;
 }
+.bullets-about {
+	color: #676767;
+	margin-left: 2rem;
+}
 /*--top-move--*/
 #toTop {
   display: none;
