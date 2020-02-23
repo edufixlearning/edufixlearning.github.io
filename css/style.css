@@ -369,7 +369,7 @@ svg:not(:root) {
     stroke: #EEEEEE;
 }
 .banner {
-    background: url(../images/bg.jpg) no-repeat center top;
+    background: url(../images/bg.png) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
